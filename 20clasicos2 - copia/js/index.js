@@ -1,5 +1,4 @@
-let dummy=
-[
+const teamsData = [
     {
       "name": "Argentinos",
       "image": "1-q08j6Xb9MFCyF0ui4ef1rt5LvBp38ge",
@@ -169,4 +168,4 @@ let dummy=
         "description": "Jugaron 136 veces. Velez ganó 52 veces. Ferro ganó 45 veces. Empataron 39 veces. Velez lleva una diferencia de 7 partidos."
       }
   ]
-  console.log(dummy)
+  
